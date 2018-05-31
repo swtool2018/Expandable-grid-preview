@@ -7,4 +7,4 @@ Picture thumbnails show expanding preview.
 Need a help on my this project that the first expanded preview should remain open when second preview opens.
 See WhatWeDo.html to get a sense for how this works.
 
-Based on this article on codrops and this project.
+Based on Thumbnail Images with expanding preview article on codrops.
