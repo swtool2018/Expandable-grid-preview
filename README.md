@@ -4,7 +4,7 @@ A grid of expandable images, similar to Google Image Search.
 Features:
 Icon Thumbnails show expanding preview and row of picture thumbnails.
 Picture thumbnails show expanding preview.
-Flexable content in the expanded view.
+Need a help on my this project that the first expanded preview should remain open when second preview opens.
 See WhatWeDo.html to get a sense for how this works.
 
 Based on this article on codrops and this project.
